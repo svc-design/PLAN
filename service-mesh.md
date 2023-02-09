@@ -1,3 +1,8 @@
 # Service Mesh
+
 * Cilium Service Mesh 上手实践 https://zhuanlan.zhihu.com/p/447950573
-* https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh/
+* ebpf-wasm-service-mesh
+  * https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh/
+  * https://www.infoq.com/news/2022/01/ebpf-wasm-service-mesh/
+* wasm-bpf
+  * https://github.com/eunomia-bpf/eunomia-bpf
