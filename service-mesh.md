@@ -6,3 +6,5 @@
   * https://www.infoq.com/news/2022/01/ebpf-wasm-service-mesh/
 * wasm-bpf
   * https://github.com/eunomia-bpf/eunomia-bpf
+* wasm oci
+  * https://github.com/engineerd/wasm-to-oci
