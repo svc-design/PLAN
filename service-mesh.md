@@ -10,3 +10,4 @@
   * https://github.com/engineerd/wasm-to-oci
 * wasm k8s
   * https://github.com/Liquid-Reply/kind-crun-wasm
+  * https://github.com/krustlet/krustlet
