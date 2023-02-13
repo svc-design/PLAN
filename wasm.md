@@ -11,3 +11,5 @@
 * wasm k8s
   * https://github.com/Liquid-Reply/kind-crun-wasm
   * https://github.com/krustlet/krustlet
+* wasm vue3
+https://github.com/rossinek/sudoku-wasm-vue3-vite
