@@ -13,3 +13,5 @@
   * https://github.com/krustlet/krustlet
 * wasm vue3
 https://github.com/rossinek/sudoku-wasm-vue3-vite
+* JavaScript to WebAssembly toolchain
+  * https://github.com/Shopify/javy
