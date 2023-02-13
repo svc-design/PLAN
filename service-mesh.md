@@ -8,3 +8,5 @@
   * https://github.com/eunomia-bpf/eunomia-bpf
 * wasm oci
   * https://github.com/engineerd/wasm-to-oci
+* wasm k8s
+  * https://github.com/Liquid-Reply/kind-crun-wasm
