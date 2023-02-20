@@ -1,0 +1,15 @@
+# M1 linux Distribution
+
+* Linux/M1 
+  - Base OS: debian for M1
+  - Desktop: KDE , DDE
+  - Linux Desktop APP STORE: mirrors.onwalk.net/flathub 
+  
+# Reference
+
+* https://git.zerfleddert.de/cgi-bin/gitweb.cgi/m1-debian/
+* https://www.corellium.com/blog/linux-m1
+
+# flatpak
+* https://github.com/flathub/website 
+
