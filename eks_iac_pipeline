@@ -1,0 +1,19 @@
+
+```plantuml
+@startuml
+
+iac_init->eks_plan: Succeeded
+eks_plan->eks_migration: Succeeded
+eks_migration->eks_apply: Succeeded
+eks_apply->eks_testing: Succeeded
+eks_apply->eks_destroy: 手动执行
+
+eks_plan --> iac_init : Failed/修复
+eks_migration --> eks_plan : Failed/修复
+eks_apply --> eks_migration : Failed/修复
+eks_testing--> eks_apply : Failed/修复
+eks_testing--> eks_testing : Failed/修复
+eks_destroy--> eks_destroy : Failed/修复
+
+@enduml
+```
