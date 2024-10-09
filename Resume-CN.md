@@ -1,77 +1,60 @@
-# 个人信息
+# 简历
 
-姓名: 潘海涛
-所在地: 上海
-目前状态: 离职
-电话: 13691175694
-邮箱：manbuzhe2009@qq.com
-LinkedIn：www.linkedin.com/in/haitaopan
+### 个人信息
+- **姓名**: 潘海涛 (Pan Haitao)
+- **位置**: 中国上海
+- **当前状态**: 失业
+- **电话**: 13691175694
+- **邮箱**: manbuzhe2009@qq.com
+- **LinkedIn**: [www.linkedin.com/in/haitaopan](www.linkedin.com/in/haitaopan)
+- **语言**: 中文（母语），英语（会话）
 
-# 求职岗位
+### 期望职位
 
-云工程师 | DevOps工程师 | 解决方案架构师
+- 云工程师
+- DevOps工程师
+- 解决方案架构师
 
-# 个人简介
+### 职业概述
 
-拥有13年云技术、IT基础设施和DevOps实践经验的云工程师和站点可靠性工程师。擅长使用Kubernetes、Docker以及GitHub Actions、Jenkins和Ansible等CI/CD自动化工具提供可扩展的解决方案。具有领导云迁移项目、开发混合云解决方案以及实施监控和可观测性系统的丰富经验。英语水平为可交流，薪资面谈。
+拥有13年云技术、IT基础设施和DevOps实践经验的云工程师和网站可靠性工程师。熟练使用Kubernetes、Docker和CI/CD自动化工具，如GitHub Actions、Jenkins和Ansible，以提供可扩展的解决方案。具有丰富的云迁移项目领导经验、开发混合云解决方案和实施监控与可观察性系统的经验。具备工作英语能力；薪资可协商。
 
-# 技能概述
+### 技能概述
+- **云平台**: AWS, GCP, 阿里云, Azure
+- **容器化与编排**: Docker, Kubernetes
+- **编程语言**: 精通Python和Shell；熟悉Go、Rust、JavaScript
+- **可观察性与监控**: Prometheus, Grafana, Elasticsearch (ES), Nagios
+- **基础设施即代码 (IaC)**: Terraform, Pulumi, GitLab CI, GitOps (ArgoCD, FluxCD)
+- **自动化工具**: Ansible, Jenkins, Helm, GitHub Action, GitLab CI, GitOps (ArgoCD, FluxCD)
 
-- 云平台： AWS, GCP, 阿里云, Azure
-- 容器化与编排： Docker, Kubernetes
-- 编程语言： 熟练使用 Python, Shell, 了解 Go, Rust, JavaScript
-- 可观测性与监控： Prometheus, Grafana, Elasticsearch (ES), Nagios
-- 基础设施即代码（IaC）： Terraform, Pulumi, GitLab CI, GitOps (ArgoCD, FluxCD)
-- 自动化工具： Ansible, Jenkins, Helm,Github Action, GitLab CI, GitOps (ArgoCD, FluxCD)
+### 教育背景
 
-# 工作经历
+| 时间               | 学位      | 学校                      | 专业                            |
+| ------------------ | --------- | ------------------------- | ------------------------------- |
+| 2006.9 - 2010.6    | 本科      | 长春理工大学              | 电气工程与自动化                 |
 
-## 特斯拉（上海）有限公司	站点可靠性工程师 2024年1月 – 2024年4月
+### 工作经历
 
-通过边缘工业控制主机、虚拟机和Kubernetes集群维护生产线的稳定性。
-开发监控和告警机制，确保快速发现和解决问题。
-使用GitHub Actions和GitOps（ArgoCD）与开发团队合作，优化部署流程。
-使用Ansible、Helm和Jenkins实现软件和系统的自动更新。
+| 时间               | 公司                                  | 职位                         |
+| ------------------ | ------------------------------------- | ---------------------------- |
+| 2024.1 - 2024.5    | 特斯拉（上海）有限公司                | 网站可靠性工程师            |
+| 2022.3 - 2023.10   | 生态网络系统有限公司                  | 高级公共云解决方案架构师    |
+| 2020.7 - 2021.11   | UCloud科技有限公司                    | 高级解决方案架构师          |
+| 2018.5 - 2020.6    | 灵雀云科技有限公司                    | 交付工程师                  |
+| 2015.5 - 2018.4    | 深度科技有限公司                      | 软件工程师                  |
+| 2013.11 - 2015.4   | KnowSec科技有限公司                   | 运维工程师                  |
+| 2013.5 - 2013.10   | 浪潮电子信息有限公司                  | 系统软件工程师              |
+| 2011.5 - 2013.4    | 中国标准软件有限公司                  | 软件工程师                  |
 
-## 华讯网络 
+### 项目总结
 
-高级解决方案架构师		2022年6月 – 2023年9月
-
-提供持续的云咨询和开发服务，实施GitLab的IaC自动化解决方案以及FluxCD的GitOps工具。
-优化EKS的IaC代码并领导公共云解决方案的技术开发。
-
-## 优刻得科技股份有限公司（UCloud）
-
-高级解决方案架构师2020年7月 – 2021年11月
-
-将多个客户的基础设施从其他平台迁移至UCloud，成功迁移了106台主机和3个K8S集群。
-为大规模部署开发了混合云和CI/CD服务。
-
-## 光大银行 | 现场实施工程师
-2019年6月 – 2020年6月
-
-升级光大银行的PaaS平台，并管理8个Kubernetes集群的运维。
-使用Prometheus和ES集成监控系统，确保最小化停机时间并快速解决问题。
-
-## 统信软件技术有限公司 | 软件工程师
-2015年5月 – 2018年4月
-
-开发UOS服务器产品，通过自动化提升系统性能。
-支持基于Linux的服务器产品，并为客户定制容器平台解决方案。
-知道创宇科技有限公司 | 运维工程师
-2013年11月 – 2015年4月
-
-管理公司IT基础设施和CDN部署，通过主动维护提高了稳定性。
-浪潮电子信息产业股份有限公司 | 系统软件工程师
-2013年5月 – 2013年10月
-
-维护Linux服务器环境，确保内部和客户应用的高可用性和可靠性。
-中标软件有限公司（CS2C） | 系统软件工程师
-2011年5月 – 2013年4月
-
-将Linux移植到龙芯硬件平台，优化性能并实现基于Koji的构建自动化系统。
-教育背景
-[您的专业] 本科学位
-[您的大学名称], [毕业年份]
-
-
+| 时间               | 客户             | 项目名称                     | 角色                      | 技术栈                                           |
+| ------------------ | ---------------- | ---------------------------- | ------------------------- | ------------------------------------------------ |
+| 2024.01 - 2024.04  | 特斯拉（上海）    | 特斯拉内部项目              | 网站可靠性工程师         | GitHub Actions, GitOps (ArgoCD), Ansible, Helm, Jenkins, HashiCorp, Linux Server |
+| 2022.06 - 2023.09  | 罗氏              | 罗氏MSP服务                | 解决方案架构师           | 云平台自动化（Terraform），GitLab CI，GitOps（FluxCD），Datadog，Linux Server |
+| 2020.07 - 2021.11  | UCloud           | UCloud客户项目              | 解决方案架构师           | 云迁移，Kubernetes，混合云，分布式存储，网络安全，日志，CI/CD |
+| 2019.06 - 2020.06  | 光大银行         | 光大银行PaaS平台项目        | 现场实施工程师           | Alauda容器平台，VMware CNI NSX-T，DevOps，Elasticsearch (ES)，Prometheus |
+| 2015.5 - 2018.8    | 同心软件         | Deepin服务器开发            | 软件工程师               | Linux（Debian/CentOS），Shell脚本，Docker，Jenkins |
+| 2013.11 - 2015.4   | KnowSec          | 基础设施与运维              | 运维工程师               | Linux，Shell，Python，Saltstack，Nginx，Nagios，CDN |
+| 2013.5 - 2013.10   | 浪潮             | KUX-OS服务器维护            | 系统软件工程师           | Linux，Apache，Bash，监控工具                    |
+| 2011.05 - 2013.04  | 中标软件         | Linux系统移植与RPM自动化    | 软件工程师               | Linux，RPM打包，Koji构建系统，Shell脚本          |
